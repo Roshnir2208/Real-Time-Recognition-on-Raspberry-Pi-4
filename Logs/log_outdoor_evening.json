@@ -1,0 +1,1274 @@
+[
+  {
+    "time": 0.020668745040893555,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.596,
+    "bbox": [
+      164,
+      40,
+      308,
+      184
+    ]
+  },
+  {
+    "time": 0.9504408836364746,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.635,
+    "bbox": [
+      164,
+      40,
+      308,
+      184
+    ]
+  },
+  {
+    "time": 0.0175628662109375,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.652,
+    "bbox": [
+      164,
+      40,
+      308,
+      184
+    ]
+  },
+  {
+    "time": 0.05700230598449707,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.8908179402351379,
+    "bbox": [
+      220,
+      186,
+      314,
+      258
+    ]
+  },
+  {
+    "time": 0.6032891273498535,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.688,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.6032891273498535,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.8908179402351379,
+    "bbox": [
+      220,
+      186,
+      314,
+      258
+    ]
+  },
+  {
+    "time": 0.032074689865112305,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.68,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.9527087211608887,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.615,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.03327012062072754,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6729999999999999,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.9630553722381592,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6509999999999999,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.034534454345703125,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.626,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.9752230644226074,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.644,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.03171515464782715,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.609,
+    "bbox": [
+      180,
+      88,
+      324,
+      232
+    ]
+  },
+  {
+    "time": 0.03545856475830078,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.771246075630188,
+    "bbox": [
+      250,
+      177,
+      282,
+      266
+    ]
+  },
+  {
+    "time": 0.6181294918060303,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.771246075630188,
+    "bbox": [
+      250,
+      177,
+      282,
+      266
+    ]
+  },
+  {
+    "time": 0.6701102256774902,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.771246075630188,
+    "bbox": [
+      250,
+      177,
+      282,
+      266
+    ]
+  },
+  {
+    "time": 0.7209057807922363,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.771246075630188,
+    "bbox": [
+      250,
+      177,
+      282,
+      266
+    ]
+  },
+  {
+    "time": 0.7827615737915039,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.771246075630188,
+    "bbox": [
+      250,
+      177,
+      282,
+      266
+    ]
+  },
+  {
+    "time": 0.03278517723083496,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.9703235030174255,
+    "bbox": [
+      223,
+      203,
+      285,
+      267
+    ]
+  },
+  {
+    "time": 0.5788228511810303,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.583,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.5788228511810303,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.9703235030174255,
+    "bbox": [
+      223,
+      203,
+      285,
+      267
+    ]
+  },
+  {
+    "time": 0.03185606002807617,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.623,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.8197610378265381,
+    "type": "object",
+    "label": "chair",
+    "confidence": 0.7009857892990112,
+    "bbox": [
+      345,
+      212,
+      451,
+      268
+    ]
+  },
+  {
+    "time": 0.03164196014404297,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.5720000000000001,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.9500272274017334,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.57,
+    "bbox": [
+      132,
+      72,
+      276,
+      216
+    ]
+  },
+  {
+    "time": 0.03281426429748535,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.5820000000000001,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.03281426429748535,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.7453522682189941,
+    "bbox": [
+      365,
+      128,
+      472,
+      266
+    ]
+  },
+  {
+    "time": 0.9814295768737793,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.56,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.9814295768737793,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.7453522682189941,
+    "bbox": [
+      365,
+      128,
+      472,
+      266
+    ]
+  },
+  {
+    "time": 0.03200674057006836,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.574,
+    "bbox": [
+      148,
+      72,
+      292,
+      216
+    ]
+  },
+  {
+    "time": 0.03200674057006836,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.8434433341026306,
+    "bbox": [
+      379,
+      132,
+      475,
+      265
+    ]
+  },
+  {
+    "time": 0.974632740020752,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.617,
+    "bbox": [
+      164,
+      72,
+      308,
+      216
+    ]
+  },
+  {
+    "time": 0.974632740020752,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.8434433341026306,
+    "bbox": [
+      379,
+      132,
+      475,
+      265
+    ]
+  },
+  {
+    "time": 0.03200054168701172,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.61,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.8129687309265137,
+    "type": "object",
+    "label": "apple",
+    "confidence": 0.6831821799278259,
+    "bbox": [
+      201,
+      113,
+      293,
+      196
+    ]
+  },
+  {
+    "time": 0.036222219467163086,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.586,
+    "bbox": [
+      212,
+      72,
+      356,
+      216
+    ]
+  },
+  {
+    "time": 1.0219488143920898,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.59,
+    "bbox": [
+      180,
+      56,
+      324,
+      200
+    ]
+  },
+  {
+    "time": 0.03163504600524902,
+    "type": "face",
+    "label": "aakanksha_rawat",
+    "confidence": 0.5379999999999999,
+    "bbox": [
+      148,
+      56,
+      292,
+      200
+    ]
+  },
+  {
+    "time": 0.5654911994934082,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.595,
+    "bbox": [
+      164,
+      88,
+      308,
+      232
+    ]
+  },
+  {
+    "time": 0.5607240200042725,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.667,
+    "bbox": [
+      180,
+      104,
+      324,
+      248
+    ]
+  },
+  {
+    "time": 0.03293633460998535,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.62,
+    "bbox": [
+      180,
+      104,
+      324,
+      248
+    ]
+  },
+  {
+    "time": 0.9764149188995361,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.62,
+    "bbox": [
+      164,
+      104,
+      308,
+      248
+    ]
+  },
+  {
+    "time": 0.03177976608276367,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.65,
+    "bbox": [
+      164,
+      88,
+      308,
+      232
+    ]
+  },
+  {
+    "time": 0.6995790004730225,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.588,
+    "bbox": [
+      212,
+      104,
+      356,
+      248
+    ]
+  },
+  {
+    "time": 0.03178000450134277,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6,
+    "bbox": [
+      212,
+      104,
+      356,
+      248
+    ]
+  },
+  {
+    "time": 0.03178000450134277,
+    "type": "face",
+    "label": "bhagyalaksmy_saburaj",
+    "confidence": 0.5870000000000001,
+    "bbox": [
+      100,
+      104,
+      244,
+      248
+    ]
+  },
+  {
+    "time": 0.03326869010925293,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.57,
+    "bbox": [
+      196,
+      120,
+      340,
+      264
+    ]
+  },
+  {
+    "time": 0.03287458419799805,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.603,
+    "bbox": [
+      180,
+      88,
+      324,
+      232
+    ]
+  },
+  {
+    "time": 0.03269147872924805,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.645,
+    "bbox": [
+      212,
+      72,
+      356,
+      216
+    ]
+  },
+  {
+    "time": 0.6943860054016113,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.614,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.03285503387451172,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.634,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.9563310146331787,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.564,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.03173327445983887,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.65,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.03173327445983887,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.8550726771354675,
+    "bbox": [
+      70,
+      157,
+      110,
+      266
+    ]
+  },
+  {
+    "time": 0.9709391593933105,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.46,
+    "bbox": [
+      180,
+      72,
+      324,
+      216
+    ]
+  },
+  {
+    "time": 0.9709391593933105,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.8550726771354675,
+    "bbox": [
+      70,
+      157,
+      110,
+      266
+    ]
+  },
+  {
+    "time": 0.03142404556274414,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6533240675926208,
+    "bbox": [
+      199,
+      52,
+      296,
+      230
+    ]
+  },
+  {
+    "time": 0.5578210353851318,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6533240675926208,
+    "bbox": [
+      199,
+      52,
+      296,
+      230
+    ]
+  },
+  {
+    "time": 0.609548807144165,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6533240675926208,
+    "bbox": [
+      199,
+      52,
+      296,
+      230
+    ]
+  },
+  {
+    "time": 0.6684887409210205,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6533240675926208,
+    "bbox": [
+      199,
+      52,
+      296,
+      230
+    ]
+  },
+  {
+    "time": 0.7330710887908936,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6533240675926208,
+    "bbox": [
+      199,
+      52,
+      296,
+      230
+    ]
+  },
+  {
+    "time": 0.7992134094238281,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.8876071572303772,
+    "bbox": [
+      191,
+      53,
+      297,
+      227
+    ]
+  },
+  {
+    "time": 0.03182029724121094,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6518626809120178,
+    "bbox": [
+      191,
+      53,
+      318,
+      226
+    ]
+  },
+  {
+    "time": 0.5725522041320801,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6518626809120178,
+    "bbox": [
+      191,
+      53,
+      318,
+      226
+    ]
+  },
+  {
+    "time": 0.6276907920837402,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6518626809120178,
+    "bbox": [
+      191,
+      53,
+      318,
+      226
+    ]
+  },
+  {
+    "time": 0.6989710330963135,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6518626809120178,
+    "bbox": [
+      191,
+      53,
+      318,
+      226
+    ]
+  },
+  {
+    "time": 0.7586531639099121,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6518626809120178,
+    "bbox": [
+      191,
+      53,
+      318,
+      226
+    ]
+  },
+  {
+    "time": 0.03144192695617676,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6531966328620911,
+    "bbox": [
+      167,
+      66,
+      253,
+      219
+    ]
+  },
+  {
+    "time": 0.5573005676269531,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6531966328620911,
+    "bbox": [
+      167,
+      66,
+      253,
+      219
+    ]
+  },
+  {
+    "time": 0.6150610446929932,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6531966328620911,
+    "bbox": [
+      167,
+      66,
+      253,
+      219
+    ]
+  },
+  {
+    "time": 0.6661243438720703,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6531966328620911,
+    "bbox": [
+      167,
+      66,
+      253,
+      219
+    ]
+  },
+  {
+    "time": 0.7390122413635254,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6531966328620911,
+    "bbox": [
+      167,
+      66,
+      253,
+      219
+    ]
+  },
+  {
+    "time": 0.03210115432739258,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.7638524770736694,
+    "bbox": [
+      118,
+      205,
+      151,
+      267
+    ]
+  },
+  {
+    "time": 0.5653259754180908,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.7638524770736694,
+    "bbox": [
+      118,
+      205,
+      151,
+      267
+    ]
+  },
+  {
+    "time": 0.6426477432250977,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.598,
+    "bbox": [
+      196,
+      104,
+      340,
+      248
+    ]
+  },
+  {
+    "time": 0.6426477432250977,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.7638524770736694,
+    "bbox": [
+      118,
+      205,
+      151,
+      267
+    ]
+  },
+  {
+    "time": 0.03245902061462402,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.608,
+    "bbox": [
+      196,
+      104,
+      340,
+      248
+    ]
+  },
+  {
+    "time": 0.9535965919494629,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.642,
+    "bbox": [
+      212,
+      120,
+      356,
+      264
+    ]
+  },
+  {
+    "time": 0.03197789192199707,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.618,
+    "bbox": [
+      212,
+      120,
+      356,
+      264
+    ]
+  },
+  {
+    "time": 0.9602339267730713,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.649,
+    "bbox": [
+      244,
+      120,
+      388,
+      264
+    ]
+  },
+  {
+    "time": 0.9602339267730713,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.55,
+    "bbox": [
+      68,
+      88,
+      212,
+      232
+    ]
+  },
+  {
+    "time": 0.03196907043457031,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6579999999999999,
+    "bbox": [
+      244,
+      120,
+      388,
+      264
+    ]
+  },
+  {
+    "time": 0.9566619396209717,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6890000000000001,
+    "bbox": [
+      276,
+      120,
+      420,
+      264
+    ]
+  },
+  {
+    "time": 0.9566619396209717,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.534,
+    "bbox": [
+      100,
+      104,
+      244,
+      248
+    ]
+  },
+  {
+    "time": 0.032091379165649414,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.66,
+    "bbox": [
+      260,
+      120,
+      404,
+      264
+    ]
+  },
+  {
+    "time": 0.032091379165649414,
+    "type": "face",
+    "label": "ritika",
+    "confidence": 0.611,
+    "bbox": [
+      100,
+      104,
+      244,
+      248
+    ]
+  },
+  {
+    "time": 0.0357515811920166,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.6679999999999999,
+    "bbox": [
+      196,
+      72,
+      340,
+      216
+    ]
+  },
+  {
+    "time": 0.6310393810272217,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.675,
+    "bbox": [
+      196,
+      72,
+      340,
+      216
+    ]
+  },
+  {
+    "time": 0.03269243240356445,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.611,
+    "bbox": [
+      196,
+      72,
+      340,
+      216
+    ]
+  },
+  {
+    "time": 0.9684109687805176,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.613,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.031507253646850586,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.627,
+    "bbox": [
+      196,
+      88,
+      340,
+      232
+    ]
+  },
+  {
+    "time": 0.9486832618713379,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.715,
+    "bbox": [
+      212,
+      88,
+      356,
+      232
+    ]
+  },
+  {
+    "time": 0.03157782554626465,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.7020000000000001,
+    "bbox": [
+      228,
+      88,
+      372,
+      232
+    ]
+  },
+  {
+    "time": 0.9648823738098145,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.624,
+    "bbox": [
+      228,
+      88,
+      372,
+      232
+    ]
+  },
+  {
+    "time": 0.7870337963104248,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.6469526886940002,
+    "bbox": [
+      244,
+      72,
+      357,
+      206
+    ]
+  },
+  {
+    "time": 0.7870337963104248,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.5833401083946228,
+    "bbox": [
+      162,
+      180,
+      241,
+      271
+    ]
+  },
+  {
+    "time": 0.7911238670349121,
+    "type": "object",
+    "label": "bottle",
+    "confidence": 0.7901393175125122,
+    "bbox": [
+      181,
+      182,
+      252,
+      266
+    ]
+  },
+  {
+    "time": 0.7911238670349121,
+    "type": "object",
+    "label": "cell phone",
+    "confidence": 0.5337373614311218,
+    "bbox": [
+      266,
+      72,
+      360,
+      209
+    ]
+  },
+  {
+    "time": 0.03498578071594238,
+    "type": "object",
+    "label": "remote",
+    "confidence": 0.5410455465316772,
+    "bbox": [
+      165,
+      199,
+      194,
+      223
+    ]
+  },
+  {
+    "time": 0.5837340354919434,
+    "type": "object",
+    "label": "remote",
+    "confidence": 0.5410455465316772,
+    "bbox": [
+      165,
+      199,
+      194,
+      223
+    ]
+  },
+  {
+    "time": 0.6352808475494385,
+    "type": "object",
+    "label": "remote",
+    "confidence": 0.5410455465316772,
+    "bbox": [
+      165,
+      199,
+      194,
+      223
+    ]
+  },
+  {
+    "time": 0.7038545608520508,
+    "type": "object",
+    "label": "remote",
+    "confidence": 0.5410455465316772,
+    "bbox": [
+      165,
+      199,
+      194,
+      223
+    ]
+  },
+  {
+    "time": 0.7658829689025879,
+    "type": "object",
+    "label": "remote",
+    "confidence": 0.5410455465316772,
+    "bbox": [
+      165,
+      199,
+      194,
+      223
+    ]
+  },
+  {
+    "time": 0.03704094886779785,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.596,
+    "bbox": [
+      228,
+      104,
+      372,
+      248
+    ]
+  },
+  {
+    "time": 0.98270583152771,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.607,
+    "bbox": [
+      212,
+      88,
+      356,
+      232
+    ]
+  },
+  {
+    "time": 0.03156256675720215,
+    "type": "face",
+    "label": "roshni",
+    "confidence": 0.636,
+    "bbox": [
+      228,
+      72,
+      372,
+      216
+    ]
+  }
+]
